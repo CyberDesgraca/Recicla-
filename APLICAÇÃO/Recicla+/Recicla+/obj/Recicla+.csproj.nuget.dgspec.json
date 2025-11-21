@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Downloads\\RECICLA+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj": {}
+    "C:\\Users\\Gabriel\\Downloads\\Recicla+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Downloads\\RECICLA+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj": {
+    "C:\\Users\\Gabriel\\Downloads\\Recicla+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Downloads\\RECICLA+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\Recicla+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj",
         "projectName": "Recicla+",
-        "projectPath": "C:\\Users\\gabri\\Downloads\\RECICLA+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Downloads\\RECICLA+\\APLICAÇÃO\\Recicla+\\Recicla+\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Downloads\\Recicla+\\APLICAÇÃO\\Recicla+\\Recicla+\\Recicla+.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Downloads\\Recicla+\\APLICAÇÃO\\Recicla+\\Recicla+\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0-windows7.0": {
@@ -74,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
